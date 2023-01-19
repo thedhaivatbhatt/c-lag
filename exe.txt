@@ -1,0 +1,9 @@
+one program add.+ 
+
+one program sub.-
+
+one program mul.*
+
+one program div./
+
+simlpe intrest cacl.
